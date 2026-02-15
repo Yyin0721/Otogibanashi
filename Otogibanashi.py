@@ -1,0 +1,1 @@
+print("Algebra's like sheet music.\nThe important thing isn't \"can you read music?\"\nIt's \"can you hear it?\"\nCAN YOU HEAR THE MUSIC?")
